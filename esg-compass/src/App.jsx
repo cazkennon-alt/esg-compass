@@ -363,7 +363,7 @@ export default function ESGCompass() {
                     Whether that's B Corp certification, climate reporting, Modern Slavery compliance, or building your ESG framework from scratch — I'd love to have a conversation.
                   </p>
                   <div style={styles.ctaBtnRow}>
-                    <a href="mailto:cazkennon@gmail.com?subject=ESG Compass — Let's talk" style={styles.ctaPrimaryBtn}>
+                    <a href="mailto:hello@kennonco.com?subject=ESG Compass — Let's talk" style={styles.ctaPrimaryBtn}>
                       GET IN TOUCH →
                     </a>
                     <a href="https://kennonco.com" target="_blank" rel="noreferrer" style={styles.ctaSecondaryBtn}>
